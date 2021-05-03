@@ -8,6 +8,5 @@ function App() {
     </div>
   );
 }
-hello testing 123
 
 export default App;
